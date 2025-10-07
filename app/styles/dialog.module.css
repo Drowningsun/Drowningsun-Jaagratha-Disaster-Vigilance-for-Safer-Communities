@@ -1,0 +1,7 @@
+.dialogOverlay {
+  z-index: 1000;
+}
+
+.dialogContent {
+  z-index: 1001;
+}
